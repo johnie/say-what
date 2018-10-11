@@ -1,0 +1,39 @@
+{
+	"name": "say-what",
+	"version": "0.0.0",
+	"description": "A simple, optimized JS library &amp; node.js module for matching short, human-quality input to a list of possibilities.",
+	"license": "MIT",
+	"repository": "johnie/say-what",
+	"author": {
+		"name": "Johnie Hjelm",
+		"email": "johnie.hjelm@mrggroup.com",
+		"url": "jh.je"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"say what",
+		"mean",
+    "edit",
+    "distance",
+    "levenshtein"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.21.0"
+	},
+	"xo": {
+		"space": true,
+		"rules": {
+			"no-negated-condition": 0
+		}
+	}
+}
