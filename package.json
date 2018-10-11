@@ -1,6 +1,6 @@
 {
 	"name": "say-what",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "A simple, optimized JS library &amp; node.js module for matching short, human-quality input to a list of possibilities.",
 	"license": "MIT",
 	"repository": "johnie/say-what",
@@ -21,9 +21,9 @@
 	"keywords": [
 		"say what",
 		"mean",
-    "edit",
-    "distance",
-    "levenshtein"
+		"edit",
+		"distance",
+		"levenshtein"
 	],
 	"dependencies": {},
 	"devDependencies": {
