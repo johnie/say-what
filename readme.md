@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install saywhat
+$ npm install @johnie/saywhat
 ```
 
 ## Usage
