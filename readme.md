@@ -1,17 +1,17 @@
-# say-what [![Build Status](https://travis-ci.org/johnie/saywhat.svg?branch=master)](https://travis-ci.org/johnie/saywhat)
+# saywhat [![Build Status](https://travis-ci.org/johnie/saywhat.svg?branch=master)](https://travis-ci.org/johnie/saywhat)
 
 > Module for matching short, human-quality input to a list of possibilities.
 
 ## Install
 
 ```
-$ npm install say-what
+$ npm install saywhat
 ```
 
 ## Usage
 
 ```js
-const sayWhat = require('say-what');
+const sayWhat = require('saywhat');
 
 sayWhat('unicrns', ['unicorns', 'rainbows']);
 //=> 'unicorns'

@@ -1,5 +1,5 @@
 {
-	"name": "say-what",
+	"name": "@johnie/saywhat",
 	"version": "1.0.0",
 	"description": "A simple, optimized JS library &amp; node.js module for matching short, human-quality input to a list of possibilities.",
 	"license": "MIT",
