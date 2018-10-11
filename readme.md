@@ -1,4 +1,4 @@
-# saywhat [![Build Status](https://travis-ci.org/johnie/saywhat.svg?branch=master)](https://travis-ci.org/johnie/saywhat)
+# say-what [![Build Status](https://travis-ci.org/johnie/saywhat.svg?branch=master)](https://travis-ci.org/johnie/saywhat)
 
 > Module for matching short, human-quality input to a list of possibilities.
 
